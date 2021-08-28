@@ -7,3 +7,6 @@
 [submodule "Portfolio-Platform-Entities"]
 	path = Portfolio-Platform-Entities
 	url = https://github.com/shah198/Portfolio-Platform-Entities
+[submodule "Portfolio-Platform-Mappings"]
+	path = Portfolio-Platform-Mappings
+	url = https://github.com/shah198/Portfolio-Platform-Mappings
