@@ -1,3 +1,6 @@
 [submodule "Portfolio-Platform-Common"]
 	path = Portfolio-Platform-Common
 	url = https://github.com/shah198/Portfolio-Platform-Common
+[submodule "Portfolio-Platform-Dtos"]
+	path = Portfolio-Platform-Dtos
+	url = https://github.com/shah198/Portfolio-Platform-Dtos
